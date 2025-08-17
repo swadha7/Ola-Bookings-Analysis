@@ -72,18 +72,18 @@ The interactive dashboards provide a **visual summary** of key insights:
 
 ```
 Ola-Bookings-Analysis/
-├── Power_BI_Dashboard/
-│   ├── .gitkeep
-│   ├── Cancellations.png
-│   ├── Overall.png
-│   ├── Ratings.png
-│   ├── Revenue.png
-│   └── Vehicle_Type.png
-├── bookings.csv                  # Raw dataset
-├── bookings_sql_import.py        # Python: CSV → MySQL
-├── ola_bookings.sql              # SQL queries & views
-├── ola_bookings.pbix             # Power BI dashboard
-└── README.md                     # Project documentation
+├── 📂 Power_BI_Dashboard/
+│   ├── 📝 .gitkeep
+│   ├── 🖼️ Cancellations.png
+│   ├── 🖼️ Overall.png
+│   ├── 🖼️ Ratings.png
+│   ├── 🖼️ Revenue.png
+│   └── 🖼️ Vehicle_Type.png
+├── 📄 bookings.csv                  # Raw dataset
+├── 🐍 bookings_sql_import.py        # Python: CSV → MySQL
+├── 🗄️ ola_bookings.sql              # SQL queries & views
+├── 📊 ola_bookings.pbix             # Power BI dashboard
+└── 📘 README.md                     # Project documentation
 ```
 ---
 
