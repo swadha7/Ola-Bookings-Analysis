@@ -70,7 +70,7 @@ The interactive dashboards provide a **visual summary** of key insights:
 ---
 ## 📂 Repository Structure
 
-```text
+```
 Ola-Bookings-Analysis/
 ├── Power_BI_Dashboard/
 │   ├── .gitkeep
@@ -84,7 +84,7 @@ Ola-Bookings-Analysis/
 ├── ola_bookings.sql              # SQL queries & views
 ├── ola_bookings.pbix             # Power BI dashboard
 └── README.md                     # Project documentation
-
+```
 ---
 
 ## 📌 Next Steps / Improvements  
