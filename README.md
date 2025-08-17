@@ -68,22 +68,29 @@ The interactive dashboards provide a **visual summary** of key insights:
 4. **Visualization (Power BI):** Designed dashboards for decision-making.  
 
 ---
-## 📂 Repository Structure  
+## 📂 Repository Structure
 
+```text
+Ola-Bookings-Analysis/
+├── Power_BI_Dashboard/
+│   ├── .gitkeep
+│   ├── Cancellations.png
+│   ├── Overall.png
+│   ├── Ratings.png
+│   ├── Revenue.png
+│   └── Vehicle_Type.png
+├── bookings.csv                  # Raw dataset
+├── bookings_sql_import.py        # Python: CSV → MySQL
+├── ola_bookings.sql              # SQL queries & views
+├── ola_bookings.pbix             # Power BI dashboard
+└── README.md                     # Project documentation
 
-📁 Ola-Bookings-Analysis
-┣ 📂 Power_BI_Dashboard
-┃ ┣ .gitkeep
-┃ ┣ Cancellations.png
-┃ ┣ Overall.png
-┃ ┣ Ratings.png
-┃ ┣ Revenue.png
-┃ ┣ Vehicle_Type.png
-┣ 📄 bookings.csv # Raw dataset
-┣ 📄 bookings_sql_import.py # Python script for data ingestion (CSV → MySQL)
-┣ 📄 ola_bookings.sql # SQL queries & views
-┣ 📄 ola_bookings.pbix # Power BI dashboard file
-┣ 📄 README.md # Project documentation
+---
+
+### ✅ Version B (ASCII-only — safest everywhere)
+
+```markdown
+## 📂 Repository Structure
 
 
 ---
