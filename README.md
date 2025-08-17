@@ -87,14 +87,6 @@ Ola-Bookings-Analysis/
 
 ---
 
-### ✅ Version B (ASCII-only — safest everywhere)
-
-```markdown
-## 📂 Repository Structure
-
-
----
-
 ## 📌 Next Steps / Improvements  
 - Add time-series forecasting for demand prediction  
 - Create machine learning model for **cancellation prediction**  
