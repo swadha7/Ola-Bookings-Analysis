@@ -45,11 +45,11 @@ The interactive dashboards provide a **visual summary** of key insights:
 - **Vehicle Type Performance** – average distance, ratings, and revenue share  
 
 ### 📷 Dashboard Samples  
-![Revenue Dashboard](Revenue.png)
-![Cancellations Dashboard](Cancellations.png)
-![Ratings Dashboard](Ratings.png)
-![Vehicle Type Dashboard](Vehicle_Type.png)
-![Overall Dashboard](Overall.png)
+![Revenue Dashboard](Power_BI_Dashboard/Revenue.png)  
+![Cancellations Dashboard](Power_BI_Dashboard/Cancellations.png)  
+![Ratings Dashboard](Power_BI_Dashboard/Ratings.png)  
+![Vehicle Type Dashboard](Power_BI_Dashboard/Vehicle_Type.png)  
+![Overall Dashboard](Power_BI_Dashboard/Overall.png)  
 
 ---
 
@@ -70,7 +70,19 @@ The interactive dashboards provide a **visual summary** of key insights:
 ---
 
 ## 📂 Repository Structure  
-
+📁 Ola-Bookings-Analysis
+┣ 📂 Power_BI_Dashboard
+┃ ┣ .gitkeep
+┃ ┣ Cancellations.png
+┃ ┣ Overall.png
+┃ ┣ Ratings.png
+┃ ┣ Revenue.png
+┃ ┣ Vehicle_Type.png
+┣ 📄 bookings.csv # Raw dataset
+┣ 📄 bookings_sql_import.py # Python script for data ingestion (CSV → MySQL)
+┣ 📄 ola_bookings.sql # SQL queries & views
+┣ 📄 ola_bookings.pbix # Power BI dashboard file
+┣ 📄 README.md # Project documentation
 
 
 ---
