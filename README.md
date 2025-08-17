@@ -45,11 +45,11 @@ The interactive dashboards provide a **visual summary** of key insights:
 - **Vehicle Type Performance** – average distance, ratings, and revenue share  
 
 ### 📷 Dashboard Samples  
+![Overall Dashboard](Power_BI_Dashboard/Overall.png)  
+![Vehicle Type Dashboard](Power_BI_Dashboard/Vehicle_Type.png)  
 ![Revenue Dashboard](Power_BI_Dashboard/Revenue.png)  
 ![Cancellations Dashboard](Power_BI_Dashboard/Cancellations.png)  
 ![Ratings Dashboard](Power_BI_Dashboard/Ratings.png)  
-![Vehicle Type Dashboard](Power_BI_Dashboard/Vehicle_Type.png)  
-![Overall Dashboard](Power_BI_Dashboard/Overall.png)  
 
 ---
 
